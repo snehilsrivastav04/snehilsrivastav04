@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehil-srivastav-38818b229/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehilsri925@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge)](https://github.com/your-github-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=snehilsrivastav04&color=blueviolet&style=for-the-badge)](https://github.com/snehilsrivastav04)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+🤖;Climate+Change+Warrior+🌍;Data+Science+Enthusiast+📊;Open+Source+Contributor+💡" alt="Typing SVG" />
 
@@ -78,11 +78,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehilsrivastav04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehilsrivastav04&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehilsrivastav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF)
 
 </div>
 
@@ -92,7 +92,7 @@ me.say_hi()
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=snehilsrivastav04&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 </div>
 
@@ -102,8 +102,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Climate Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=climate-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/your-github-username/climate-prediction)
-[![AQI Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=aqi-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/your-github-username/aqi-analysis)
+[![Climate Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=snehilsrivastav04&repo=climate-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/snehilsrivastav04/climate-prediction)
+[![AQI Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=snehilsrivastav04&repo=aqi-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/snehilsrivastav04/aqi-analysis)
 
 </div>
 
@@ -111,7 +111,7 @@ me.say_hi()
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=FFFFFF)](https://github.com/your-github-username)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehilsrivastav04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=FFFFFF)](https://github.com/snehilsrivastav04)
 
 ---
 
@@ -128,6 +128,6 @@ I'm always excited to connect with fellow developers, data scientists, and clima
 
 ---
 
-⭐️ From [Snehil Srivastav](https://github.com/your-github-username) | Building a sustainable future, one line of code at a time 🌍
+⭐️ From [Snehil Srivastav](https://github.com/snehilsrivastav04) | Building a sustainable future, one line of code at a time 🌍
 
 </div>
